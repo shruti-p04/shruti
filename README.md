@@ -1,0 +1,2 @@
+# shruti
+FIRST GIT REPOSITORY
